@@ -1,4 +1,14 @@
+FRUITS
 banana 
 mango
 cherry
 apples
+ 
+VEGETABLES
+
+PETS
+
+DAIRY
+
+
+CARS
